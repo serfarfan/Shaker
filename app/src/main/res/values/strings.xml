@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shake</string>
+    <string name="shakerSensitivity">Set shaker sensitivity</string>
+</resources>
